@@ -1,0 +1,9 @@
+https://india.jobs.accenture.com/ICE/Index.html
+1.Tell me about your over all experience .
+HI, My self is Devendra.Having 3+ Years of experience on Devops.So, In my past experience i worked on couple of tools like Version Control System svn and Git i worked.And Maven i worked on build tools and Ant i have Knowledge.Coming to continuos integration i have very good experience on  In my past experience i worked couple activies in jenkins installing the plugins and installing the Nodes for my project requirement.A part from this i have knowledge on Deployment tool configuration management tool Chef and Rundeck.Ticketing system tool Service Now,Jira,RTC i have knowledge.Backup repository tool Nexus i worked.And also Instant Management and Change Managment tool i worked on ITSM.
+2.Do You have anykind of administration tool.
+
+3.What do you mean by Devops basically?
+Ans:Basically Devops is nothing but its like from development to develer the product into the Customer complete end to end process we can automition this structure of Devops,So,in this structure Devops so many teams we have to communicate different ,Different teams after that we can achive This Devops Team.
+
+How to create a new object in shell script.
